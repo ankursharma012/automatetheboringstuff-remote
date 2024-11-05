@@ -1,6 +1,6 @@
 import random
 
-pets = ['cat', 'dog', 'mouse', 'dogcat', 'friendChanges']
+pets = ['cat', 'dog', 'mouse', 'dogcat', 'friendChanges', 'friendChanges2']
 
 print(random.choice(pets))
 
